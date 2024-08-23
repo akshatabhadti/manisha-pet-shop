@@ -1,0 +1,17 @@
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.Login.resources
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.Properties.Resources.resources
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.csproj.GenerateResource.Cache
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\bin\Debug\ManishaPetShop.exe
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\bin\Debug\ManishaPetShop.pdb
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.exe
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.pdb
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.AdminDashboardForm.resources
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.CashCustomer.resources
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.CashForm.resources
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.CustomerFormcs.resources
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.Dashboard.resources
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.ProductForm.resources
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.RegisterForm.resources
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.UserForm.resources
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.exe
+D:\MS VS\Practice\ManishaPetShop\ManishaPetShop\ManishaPetShop\obj\x86\Debug\ManishaPetShop.pdb
